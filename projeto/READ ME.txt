@@ -1,0 +1,11 @@
+AVISOS--> Recomenda-se ter em atenção o volume do computador pois alguns sons são altos, assim como ajustar o som no próprio jogo.
+--> Recomenda-se ainda que o jogo seja jogado com calma, uma vez que algumas animações e carregamentos de página demoram um tempo, isto aplica-se sobretudo à movimentação do pernoagem e aos alerts.
+--> Sabemos que temos algum código reperido, nomeadamente sons e funções, no entanto não conseguíamos carregar os sons de forma mais eficaz usando javascript de forma a que estes funcionassem.
+
+
+### RESPONSIVO ###################################################################################
+
+* Todas as nossas páginas foram adaptadas de forma a estarem responsivas para vários tamanhos de ecrã, no entanto, recomenda-se a sua visualização em ecrãs de tamanho superior a 1500px de largura no chrome e no modo de visualização IPhone 6/7/8 para mobile.
+
+NOTA: Por vezes o chrome dá zoom automaticamente em algumas páginas, pelo que pode ser necessário fazer duplo clique para o retirar e ver a página da forma correta.
+
